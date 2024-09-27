@@ -9,11 +9,6 @@
 - 🌱 I’m currently learning **Next Js**
 - 📫 How to reach me **mjunachole97@gmail.com**
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjasim97" alt="mdjasim97" /></a> </p>
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
@@ -26,11 +21,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjasim97&show_icons=true&locale=en&layout=compact" alt="mdjasim97" /></p>
 
-# 📊 GitHub Stats:
+<h3 align="left">Github Stars:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjasim97&show_icons=true&locale=en" alt="mdjasim97" /></p>
 
 # Most Use Language
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjasim97&" alt="mdjasim97" /></p>
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjasim97" alt="mdjasim97" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
