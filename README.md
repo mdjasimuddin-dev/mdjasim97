@@ -10,10 +10,8 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdjasim97&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdjasim97&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjasim97&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 
@@ -52,6 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjasim97&show_icons=true&locale=en" alt="mdjasim97" /></p>
 
+# 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjasim97&" alt="mdjasim97" /></p>
 
 ### ✍️ Random Dev Quote
