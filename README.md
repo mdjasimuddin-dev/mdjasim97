@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjasim97&label=Profile%20views&color=0e75b6&style=flat" alt="mdjasim97" /> </p>
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on [Healthcare Diagnostic Management System](https://github.com/mdjasim97/healthcare-diagnostic-client)
+- 🔭 I’m currently working on Medical Diagnostic Management System
 - 🌱 I’m currently learning **Next Js**
 - 📫 How to reach me **mjunachole97@gmail.com**
 
