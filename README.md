@@ -21,10 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjasim97&show_icons=true&locale=en&layout=compact" alt="mdjasim97" /></p>
 
-<h3 align="left">Github Stars:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjasim97&show_icons=true&locale=en" alt="mdjasim97" /></p>
 
-# Most Use Language
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjasim97&" alt="mdjasim97" /></p>
 
 ## 🏆 GitHub Trophies
