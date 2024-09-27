@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjasim97&label=Profile%20views&color=0e75b6&style=flat" alt="mdjasim97" /> </p>
 
+# 💫 About Me:
+
+- 🔭 I’m currently working on [Healthcare Diagnostic Management System](https://github.com/mdjasim97/healthcare-diagnostic-client)
+- 🌱 I’m currently learning **Next Js**
+- 📫 How to reach me **mjunachole97@gmail.com**
+
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjasim97" alt="mdjasim97" /></a> </p>
 
@@ -24,13 +30,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 💫 About Me:
 
-- 🔭 I’m currently working on [Healthcare Diagnostic Management System](https://github.com/mdjasim97/healthcare-diagnostic-client)
-
-- 🌱 I’m currently learning **Next Js**
-
-- 📫 How to reach me **mjunachole97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,9 +48,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjasim97&show_icons=true&locale=en&layout=compact" alt="mdjasim97" /></p>
 
+# 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjasim97&show_icons=true&locale=en" alt="mdjasim97" /></p>
 
-# 📊 GitHub Stats:
+# Most Use Language
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjasim97&" alt="mdjasim97" /></p>
 
 ### ✍️ Random Dev Quote
